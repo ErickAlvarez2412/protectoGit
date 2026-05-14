@@ -1,0 +1,4 @@
+* 6c9b326 feat: agregar funcion de calculo de area
+* 3e7e6bc feat: agregar funcion de conversion de temperatura
+* 204991f docs: agregar fecha al archivo de presentacion
+* af59aaf feat: agregar presentacion del estudiante
