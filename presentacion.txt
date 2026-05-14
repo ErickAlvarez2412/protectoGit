@@ -1,0 +1,4 @@
+Nombre: Erick Alvarez
+Programa: Ingeniería de Sistemas
+Lenguaje elegido: Python
+Descripción del proyecto: Programa de conversiones y cálculos matemáticos.
