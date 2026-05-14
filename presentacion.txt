@@ -1,3 +1,4 @@
+Fecha: 13/05/2026
 Nombre: Erick Alvarez
 Programa: Ingeniería de Sistemas
 Lenguaje elegido: Python
